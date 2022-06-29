@@ -243,3 +243,5 @@
       </tr>
   </tbody>
 </table>
+
+table provided by: <a href="https://baymard.com/checkout-usability/credit-card-patterns">baymard.com</a>
